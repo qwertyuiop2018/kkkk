@@ -173,6 +173,12 @@ CCTV-风云剧场（高清）,rtsp://10.11.187.39/PLTV/88888888/224/3221225942/1
 湖北影视,http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=hbys
 湖北生活,http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=hbsh
 湖北教育,http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=hbjy
+CHC动作电影,http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=chcdzdy
+CHC家庭影院,http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=chcjtyy
+CHC影迷电影,http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=chcymdy
+文物宝库,http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=wwbk
+梨园频道,http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=lypd
+武术世界,http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=wssj
 卫 视,#genre#
 湖南卫视（高清）,rtsp://10.11.187.39/PLTV/88888888/224/3221225842/10000100000000060000000002605410_0.smil
 浙江卫视（高清）,rtsp://10.11.187.39/PLTV/88888888/224/3221225844/10000100000000060000000002605411_0.smil
@@ -231,6 +237,6 @@ BRTV  KAKU少儿,rtsp://10.11.187.39/PLTV/88888888/224/3221225655/10000100000000
 凤凰香港,https://itv.myxcwh.com:4399/js/yd/?id=HD-10000k-1080P-fhhongkong5s
 4 K,#genre#
 求索记录4K,https://itv.myxcwh.com:4399/zj/yd/32776/index.m3u8?fmt=ts2hls#https://tv.myukj.cn/023/cqyx.php?id=qsjlHD
-欢笑剧场4K,https://itv.myxcwh.com:4399/zj/dx/200.52:5140#https://tv.myukj.cn/023/cqyx.php?id=hxjc_4K
+欢笑剧场4K,https://itv.myxcwh.com:4399/zj/dx/200.52:5140#https://tv.myukj.cn/023/cqyx.php?id=hxjc_4K#http://tv.nastool.site:56789/240109/hbydzte.php?/PLTV/&id=HXJC4K
 CCTV4K,https://itv.myxcwh.com:4399/zj/yd/29373/index.m3u8?fmt=ts2hls#https://tv.myukj.cn/023/cqyx.php?id=CCTV4K
 CCTV16奥林匹克4K超高清,https://itv.myxcwh.com:4399/zj/dx/201.63:5140#https://tv.myukj.cn/023/cqyx.php?id=CCTV16_4k
